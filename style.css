@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    background: #eee;
+}
+.quiz{
+    width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 15px;
+}
+button{
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
